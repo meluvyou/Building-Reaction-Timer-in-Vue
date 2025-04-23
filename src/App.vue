@@ -1,5 +1,5 @@
 <template>
-  <h1>My Reaction Timer</h1>
+  <h1>This is My Reaction Timer</h1>
 </template>
 
 <script>
